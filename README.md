@@ -26,6 +26,7 @@ The goal was to right-size the edge protection to match the client's actual risk
 
 **Engagement at a glance:**
 
+| Metric            | Value                                   |
 |-------------------|-----------------------------------------|
 | Edge cost before  | ~$3,400 per month                       |
 | Edge cost after   | ~$200 per month                         |
